@@ -9,7 +9,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
 ## Evaluación de Riesgo
 
  * [Chile] Formulario https://coronavirus.udec.cl/
- * [Chile] Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
+ * [Chile] Bot basado en el formulario: https://www.covidbot19.org/
  * [Chile] https://www.testcoronavirus.cl/
  
 ## APIs y Datasets sobre info de coronavirus

@@ -23,6 +23,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
  
 ## Apps de otros países y experiencia
  * [Singapur] [Trace Together](https://www.tracetogether.gov.sg/) (Plantea dilema de recopilar información)
+ * [Argentina] [Cotrack](https://cotrack.social/)
 
 ## Sobre derechos digitales
  * https://www.eff.org/issues/covid-19

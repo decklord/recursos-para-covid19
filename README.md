@@ -1,11 +1,15 @@
-# recursos-para-covid19
+# Recursos para covid19
+
 La idea es que esta sea una lista de recursos en español de API's, aplicaciones, servicios y todo lo que nos permita ayudar a combatir COVID-19 desde la tecnología. Por favor difundir esto a instituciones de salud, bomberos, etc. 
-Ojalá podamos colaborar hackers & expertos en salud.
+Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más requieran en tiempo record.
+
+## Mesa de Ayuda por medios digitales
+  * Licencias gratis de https://www.adereso.com.mx solicitando a rse@adere.so para organizaciones de cara a la pandemia
 
 ## Evaluación de Riesgo
 
  * Formulario https://coronavirus.udec.cl/
- * Bot basado en el formulario:
+ * Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
  
 ## API's sobre info de coronavirus
 

@@ -11,10 +11,11 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
  * [Chile] Formulario https://coronavirus.udec.cl/
  * [Chile] Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
  
-## API's sobre info de coronavirus
+## APIs y Datasets sobre info de coronavirus
 
  * [General]Todos los países https://coronavirus-19-api.herokuapp.com/countries
  * [Chile] https://coronavirus-19-api.herokuapp.com/countries/Chile
+ * [General] https://github.com/CSSEGISandData/COVID-19
  
 ## Papers
  * [General] [Covid Papers](https://github.com/gsarti/covid-papers-browser) (en inglés)

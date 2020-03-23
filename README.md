@@ -29,4 +29,4 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
 
 ## Aportes
 
-Si quieres hacer tu aporte, envía un Pull Request o escríbeme a camilo@adere.so
+Si quieres hacer tu aporte, envía un Pull Request o escríbeme a camilo AT adere.so o _clopez en twitter.

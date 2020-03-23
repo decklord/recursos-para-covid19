@@ -26,7 +26,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
  * [Argentina] [Cotrack](https://cotrack.social/)
 
 ## Sobre derechos digitales
- * https://www.eff.org/issues/covid-19
+ * [Ingles] https://www.eff.org/issues/covid-19
 
 ## Aportes
 

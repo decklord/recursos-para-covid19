@@ -10,6 +10,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
 
  * [Chile] Formulario https://coronavirus.udec.cl/
  * [Chile] Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
+ * [Chile] https://www.testcoronavirus.cl/
  
 ## APIs y Datasets sobre info de coronavirus
 
@@ -22,6 +23,9 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
  
 ## Apps de otros países y experiencia
  * [Singapur] [Trace Together](https://www.tracetogether.gov.sg/) (Plantea dilema de recopilar información)
+
+## Sobre derechos digitales
+ * https://www.eff.org/issues/covid-19
 
 ## Aportes
 

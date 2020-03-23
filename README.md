@@ -15,3 +15,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
 
  * [General]Todos los países https://coronavirus-19-api.herokuapp.com/countries
  * [Chile] https://coronavirus-19-api.herokuapp.com/countries/Chile
+
+## Aportes
+
+Si quieres hacer tu aporte, envía un Pull Request o escríbeme a camilo@adere.so

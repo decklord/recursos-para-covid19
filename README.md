@@ -4,14 +4,14 @@ La idea es que esta sea una lista de recursos en español de API's, aplicaciones
 Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más requieran en tiempo record.
 
 ## Mesa de Ayuda por medios digitales
-  * Licencias gratis de https://www.adereso.com.mx solicitando a rse@adere.so para organizaciones de cara a la pandemia
+  * [General] Licencias gratis de https://www.adereso.com.mx solicitando a rse@adere.so para organizaciones de cara a la pandemia
 
 ## Evaluación de Riesgo
 
- * Formulario https://coronavirus.udec.cl/
- * Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
+ * [Chile] Formulario https://coronavirus.udec.cl/
+ * [Chile] Bot basado en el formulario: https://botcenter.github.io/test-chat/?token=43b8f1b0b6798ddb4bd19699badef89e
  
 ## API's sobre info de coronavirus
 
- * Todos los países https://coronavirus-19-api.herokuapp.com/countries
- * Chile https://coronavirus-19-api.herokuapp.com/countries/Chile
+ * [General]Todos los países https://coronavirus-19-api.herokuapp.com/countries
+ * [Chile] https://coronavirus-19-api.herokuapp.com/countries/Chile

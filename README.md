@@ -17,7 +17,7 @@ Ojalá podamos colaborar hackers & expertos en salud para solucionar lo que más
  * [Chile] https://coronavirus-19-api.herokuapp.com/countries/Chile
  
 ## Apps de otros países y experiencia
- * [Singapur] [Trace Together](https://www.tracetogether.gov.sg/)
+ * [Singapur] [Trace Together](https://www.tracetogether.gov.sg/) (Plantea dilema de recopilar información)
 
 ## Aportes
 
